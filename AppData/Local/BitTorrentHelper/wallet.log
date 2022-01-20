@@ -1,0 +1,228 @@
+[2021-10-22 18:58:16.231] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2021-10-22 18:58:16.235] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-10-22 18:58:17.743] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: ledger.create_account.success
+[2021-10-22 18:58:17.744] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::769::ledger_create_account_success
+[2021-10-22 18:58:17.748] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-10-22 18:58:17.776] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2021-10-22 18:58:17.777] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2021-10-22 18:58:17.777] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-10-22 18:58:17.777] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-10-22 18:58:17.892] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2021-10-22 18:58:18.008] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-10-22 18:58:18.008] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2021-11-30 11:02:27.827] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2021-11-30 11:02:27.828] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-11-30 11:02:27.893] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-11-30 11:02:27.925] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2021-11-30 11:02:27.925] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2021-11-30 11:02:27.925] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-11-30 11:02:27.925] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-11-30 11:02:29.694] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2021-11-30 11:02:29.823] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-11-30 11:02:29.823] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2021-11-30 11:02:45.564] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:46.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:46.744] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:47.685] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:47.685] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:47.931] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:48.368] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:48.556] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:48.556] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:48.869] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:48.994] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:49.057] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:49.134] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:49.134] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:49.134] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:49.368] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:49.431] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:49.932] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:50.369] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:50.369] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:50.369] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:50.431] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:50.806] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:50.994] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:51.118] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:51.571] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:52.306] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:52.369] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:52.369] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:52.931] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:52.931] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:52.994] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.131] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.309] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.309] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.309] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.309] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.681] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.681] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:53.681] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:54.369] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:54.369] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:54.681] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:54.681] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:55.431] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:55.431] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:55.626] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:55.626] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:55.626] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:55.868] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.056] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.243] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.306] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.306] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.306] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.619] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.681] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.931] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:56.994] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:02:57.493] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:10.884] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:12.666] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:14.184] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:14.184] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:14.356] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:14.415] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:15.135] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:16.557] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:17.826] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:17.826] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:18.251] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:18.900] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:19.539] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:20.337] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:20.607] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:20.796] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:20.796] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:20.796] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.353] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.353] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.353] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.353] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.353] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.353] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.667] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.667] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.667] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.667] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:21.667] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:22.292] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:22.353] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:22.674] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:22.919] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:23.047] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:23.166] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:24.025] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:24.275] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:24.533] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:24.533] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:24.609] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:24.609] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:25.213] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:25.213] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:25.747] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:25.859] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:25.916] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:25.916] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:26.572] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:26.621] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:29.807] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:30.308] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:30.805] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:32.232] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:32.291] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:34.933] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:36.056] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:36.933] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:38.181] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:40.810] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:40.875] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:44.793] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:45.169] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:47.885] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:50.031] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:50.032] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:52.310] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:55.787] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 11:03:57.150] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 12:40:51.178] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2021-11-30 12:40:51.180] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-11-30 12:40:51.229] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-11-30 12:40:51.287] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2021-11-30 12:40:51.288] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2021-11-30 12:40:51.288] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-11-30 12:40:51.288] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-11-30 12:40:52.769] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2021-11-30 12:40:53.042] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-11-30 12:40:53.042] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2021-11-30 13:24:48.943] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:24:54.160] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:25.436] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:25.436] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:26.315] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:37.938] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:39.830] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:48.215] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:49.060] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:49.524] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:49.524] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:29:49.524] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::875::channel amount = 0
+[2021-11-30 13:37:49.257] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2021-11-30 13:37:49.258] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-11-30 13:37:49.324] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-11-30 13:37:49.375] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2021-11-30 13:37:49.375] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2021-11-30 13:37:49.375] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-11-30 13:37:49.375] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-11-30 13:37:49.880] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2021-11-30 13:37:50.202] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-11-30 13:37:50.202] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2021-12-03 16:59:21.093] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2021-12-03 16:59:21.094] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-12-03 16:59:21.159] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-12-03 16:59:21.226] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2021-12-03 16:59:21.226] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2021-12-03 16:59:21.226] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-12-03 16:59:21.226] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-12-03 16:59:23.318] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2021-12-03 16:59:23.453] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-12-03 16:59:23.453] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2021-12-20 16:37:47.189] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2021-12-20 16:37:47.191] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-12-20 16:37:47.256] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-12-20 16:37:47.309] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2021-12-20 16:37:47.309] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2021-12-20 16:37:47.309] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-12-20 16:37:47.310] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-12-20 16:37:48.380] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2021-12-20 16:37:48.516] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-12-20 16:37:48.516] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2021-12-20 17:02:32.872] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:03:55.345] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: ledger.close_channel.success
+[2021-12-20 17:03:55.345] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1050::ledger_close_chan_success
+[2021-12-20 17:04:16.886] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:05:40.869] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:07:04.884] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:13:55.885] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:15:07.549] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: ledger.close_channel.success
+[2021-12-20 17:15:07.549] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1050::ledger_close_chan_success
+[2021-12-20 17:16:43.172] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:18:48.864] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:20:29.891] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: non_zero_report
+[2021-12-20 17:21:24.460] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: ledger.close_channel.success
+[2021-12-20 17:21:24.460] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1050::ledger_close_chan_success
+[2021-12-20 17:22:29.602] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: ledger.close_channel.success
+[2021-12-20 17:22:29.602] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1050::ledger_close_chan_success
+[2021-12-20 17:37:47.303] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: contention_report
+[2021-12-20 17:37:47.303] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bidders_report
+[2021-12-20 18:37:47.305] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bidders_report

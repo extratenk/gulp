@@ -1,0 +1,34 @@
+{
+	"name": "scss-bem-support",
+	"displayName": "SCSS BEM Support",
+	"description": "BEM support for SCSS files",
+	"version": "0.0.6",
+	"publisher": "joloyonaha",
+	"icon": "assets/bem.png",
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"repository": {
+		"url": "https://github.com/joloyonaha/scss-bem-support"
+	},
+	"contributes": {
+		"grammars": [
+			{
+				"injectTo": [
+					"source.css.scss"
+				],
+				"scopeName": "bem.support.scss",
+				"path": "./syntaxes/bemSupport.tmLanguage.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "858da2eb-7042-4bfc-88f0-f3df36119baa",
+		"publisherId": "3f1d3525-5ef0-4b54-a89d-ebda3c945b89",
+		"publisherDisplayName": "Jolo Yonaha",
+		"installedTimestamp": 1629564147456
+	}
+}
